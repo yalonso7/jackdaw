@@ -51,7 +51,7 @@
     "react-dom": "16.9.0",
     "react-graph-vis": "^1.0.5",
     "react-layout-components": "^3.0.6",
-    "react-markdown": "^4.1.0",
+    "react-markdown": "^5.0.0",
     "react-redux": "^6.0.0",
     "react-router-dom": "^5.1.2",
     "react-sortable-tree": "2.6.2",
